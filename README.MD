@@ -4,22 +4,26 @@ Coding challenge about resto system
 
 ## Getting Started
 
-superplate is a Next.js all-in-one project generator. Create your project with the tools you need without spending hours on setting them up
+Get started with this project, instructions on setting up your project locally.
+To get a local copy up and running follow these simple steps.
 
-Before run this project, you need to install node_modules
 
+1. Clone this repo
+```bash
+    git clone https://github.com/sangkanfaiq/ambisius-coding-challenge.git
+```
+
+2. Before run this project, you need to install node_modules
 ```bash
     yarn install
 ```
 
-Run the local database
-
+3. Run the local database
 ```bash
     yarn dev:server
 ```
 
-### Running the development server.
-
+### Start Project
 ```bash
     yarn dev
 ```
