@@ -10,22 +10,22 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone this repo
 ```bash
-    git clone https://github.com/sangkanfaiq/ambisius-coding-challenge.git
+git clone https://github.com/sangkanfaiq/ambisius-coding-challenge.git
 ```
 
 2. Before run this project, you need to install node_modules
 ```bash
-    yarn install
+yarn install
 ```
 
 3. Run the local database
 ```bash
-    yarn dev:server
+yarn dev:server
 ```
 
 ### Start Project
 ```bash
-    yarn dev
+yarn dev
 ```
 
 ## Learn More
