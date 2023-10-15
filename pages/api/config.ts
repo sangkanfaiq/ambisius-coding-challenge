@@ -169,17 +169,3 @@ export async function updateOrders(id: any, body: any) {
     console.log(error);
   }
 }
-
-export async function getOrdersByTableNo(tableNo: any) {
-  const query = `
-    SELECT * FROM orders
-    WHERE table_no = '${tableNo}'
-  `;
-
-  const res = await axios.request({
-    method: "GET",
-    url: `http://localhost:3600/orders/${query}`,
-  });
-
-  return res.data;
-}

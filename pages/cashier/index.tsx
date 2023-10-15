@@ -152,7 +152,6 @@ const CashierPage = () => {
   ];
 
   async function handlePay(record: any) {
-    console.log(record);
 
     const itemsToDeleteByTable = record.reduce((acc: any, item: any) => {
       const table = item.table;

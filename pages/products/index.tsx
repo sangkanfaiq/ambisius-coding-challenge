@@ -242,7 +242,6 @@ const ProductsPage = () => {
   }
 
   async function handleDelete(record: any) {
-    console.log(record);
     try {
       const res = await deleteProduct(record.id);
       if (res && res.status === 200) {
