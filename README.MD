@@ -23,7 +23,7 @@ yarn install
 yarn dev:server
 ```
 
-### Start Project
+4. Start Project
 ```bash
 yarn dev
 ```
