@@ -18,7 +18,7 @@ git clone https://github.com/sangkanfaiq/ambisius-coding-challenge.git
 yarn install
 ```
 
-3. Run the local database
+3. Run the local database and open in new terminal
 ```bash
 yarn dev:server
 ```
