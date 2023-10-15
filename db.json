@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Nasi Goreng Seafood",
+      "status": "1",
+      "image": "https://i.ibb.co/9sdkHCt/nasgor.jpg",
+      "price": 35000
+    },
+    {
+      "name": "Pasta",
+      "status": "1",
+      "image": "https://i.ibb.co/X82MQj8/pasta.jpg",
+      "id": 2,
+      "price": 45000
+    },
+    {
+      "name": "Avocado Juice",
+      "status": "1",
+      "image": "https://i.ibb.co/2ddKvDD/avocado.jpg",
+      "id": 3,
+      "price": 20000
+    },
+    {
+      "name": "Sirloin Steak",
+      "status": "1",
+      "image": "https://i.ibb.co/zFj66X5/sirloin.jpg",
+      "price": 200000,
+      "id": 4
+    },
+    {
+      "name": "Red Velvet Cold",
+      "status": "1",
+      "image": "https://i.ibb.co/G5yFWKj/red-velvet-frappe.png",
+      "price": 25000,
+      "id": 5
+    }
+  ],
+  "orders": []
+}
